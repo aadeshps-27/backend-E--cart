@@ -1,0 +1,28 @@
+
+ step 1- npm init -y
+ step-2   npm i express cors mongoose dotenv
+          dotenv --> is library
+
+--------------------------------------------------------------------------------------------------------------
+ 
+                                              Back-end for E-cart😎 
+
+1. create a folder for backend
+2. create a package.json file  ➡  √ npm init -y
+3. install 3rd party packages  ➡  √ npm i express cors mongoose dotenv
+4. create       √ index.js    √.env, .gitignore
+5. inside in it
+       
+        √ to automatically load dotenv file into our application
+        √ mport express cors dotenv
+        √ create a server application
+        √ use cors() express.json() ln server application
+        √ defne port number
+        √ run the server application
+
+6. mongo db conflg
+
+   √ create a database  and collecton n atlas
+   √ copy connect str  
+
+
